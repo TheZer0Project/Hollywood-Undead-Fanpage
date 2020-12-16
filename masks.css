@@ -1,0 +1,62 @@
+
+ 
+ #head {
+     text-align: center;
+     font-size: 25px;
+     font-family: 'Big Shoulders Stencil Text', cursive;
+ }
+
+ .topnav {
+     font-size :  30px ; 
+     padding-top : 20px ;
+     padding-left : 20px ;
+     padding-right : 20px ;
+     padding-bottom : 20px ;
+     text-align: center;
+     color:white ;
+     background-color: aqua;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+     
+ }
+
+#text {
+    color:white
+}
+ 
+ 
+ img {
+     display : block ; 
+     margin-left : auto ;
+     margin-right : auto ;
+     max-width : 65%; height:auto ; 
+     padding : 50px ; 
+ }
+ 
+ body {
+     background-color : black
+ }
+ 
+ h1 {
+     display : inline ; 
+     color : white ; 
+ }
+ 
+
+ 
+ #content {
+     color:white ; 
+ }
+ 
+ a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    color:white;
+    text-align:center
+}
+
+body {
+    font-size:x-large
+}
